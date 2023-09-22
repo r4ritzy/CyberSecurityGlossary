@@ -4,4 +4,4 @@ Imagine you have a computer or a smartphone, and you use them to play games, cha
 
 Cybersecurity is like having a digital shield to protect yourself from these bad people and their tricks. It's a set of tools, practices, and rules to keep your devices and information safe from hackers and cybercriminals.
 
-Formal def: Cybersecurity is the practice of protecting computers, networks, and digital information from unauthorized access, attacks, damage, or theft
+Formal Def: Cybersecurity is the practice of protecting computers, networks, and digital information from unauthorized access, attacks, damage, or theft
